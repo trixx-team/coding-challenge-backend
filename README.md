@@ -16,7 +16,7 @@ Você é um cientista em um mundo pós-apocalíptico. Em seu laboratório, você
 - Construa uma solução com código limpo e bem estruturado;
 - Commit **cedo e muitas vezes**. Queremos poder verificar seu progresso;
 - Sinta-se livre para abordar o problema de forma criativa de acordo com os seus gostos de programação (sempre há várias maneiras de atingir o mesmo objetivo) e tente usar soluções elegantes;
-- Nós gostamos de codificar nossas aplicações em inglês (variavéis, funções) e o retorno de mensagens em português, mais fique a vontade enquanto a isso;
+- Nós gostamos de codificar nossas aplicações em inglês (Variáveis, funções) e o retorno de mensagens em português, mas fique a vontade enquanto a isso;
 - Criação de testes automatizados é um diferencial, mas não obrigatório.
 
 ## O desafio
@@ -30,17 +30,17 @@ Crie uma API totalmente funcional que permita executar as seguintes operações:
 5. Torne sua API pública. Implante-o usando o serviço de sua escolha (por exemplo, AWS, Heroku, Digital Ocean);
 6. Crie um arquivo INSTRUCTIONS incluindo uma breve explicação de suas escolhas técnicas e (se desejar) idéias e sugestões.
 
-Muito fácil? Ótimo, também achamos que é! É por isso que encorajamos os candidatos a se esforçarem e nos impressionarem da maneira que julgarem apropriada (contanto que esteja relacionado a esse desafio) ;)
+Muito fácil? Ótimo, também achamos que é! É por isso que encorajamos os candidatos a se esforçarem e nos impressionarem da maneira que julgarem apropriada (contanto que esteja relacionado a esse desafio).
 
 **Boa codificação!**
 
 ### Recomendações
 
 - É altamente recomendável que você use o Docker para gerenciar seu ambiente;
-- Frameworks (Laravel, Express, Adonis);
-- Banco de dados (MySQL, MongoDB, Firebase);
+- Frameworks (Laravel, AdonisJs, Restify, Express);
+- Banco de dados (MySQL, PostgreSQL, MongoDB);
 - Documentação (Postman, Insomnia).
 
 ### Sobre
 
-Você quer se juntar à nossa equipe de tecnologia como engenheiro de back-end? Aceite o nosso desafio e nos impressione :)
+Você quer se juntar à nossa equipe de tecnologia como engenheiro de back-end? Aceite o nosso desafio e nos impressione.
