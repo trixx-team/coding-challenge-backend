@@ -38,7 +38,7 @@ Muito fácil? Ótimo, também achamos que é! É por isso que encorajamos os can
 
 - É altamente recomendável que você use o Docker para gerenciar seu ambiente;
 - Frameworks (Laravel, AdonisJs, Restify, Express);
-- Banco de dados (MySQL, PostgreSQL, MongoDB);
+- Banco de dados (MySQL, MariaDB, PostgreSQL);
 - Documentação (Postman, Insomnia).
 
 ### Sobre
